@@ -1,0 +1,3 @@
+- url: https://nytimes.com
+  output: shot.png
+  height: 800
